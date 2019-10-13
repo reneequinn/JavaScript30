@@ -10,3 +10,4 @@ A repository for all of my [JavaScript 30](https://javascript30.com/) challenges
 6. [Type Ahead](06-TypeAhead)
 7. [Array Cardio Day 2](07-ArrayCardioDay2)
 8. [Fun with HTML5 Canvas](08-HTMLCanvas)
+9. [Dev Tools Domination](09-DevTools)
