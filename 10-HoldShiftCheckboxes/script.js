@@ -1,5 +1,6 @@
 // Getting all checkoxes
 const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+const clearBtn = document.querySelector('#clearBtn');
 
 let lastChecked;
 
@@ -21,12 +22,21 @@ function handleCheck(e) {
       if (inBetween) {
         checkbox.checked = true;
       }
-    })
+    });
 
   }
   // Set last checked to the item that was clicked
   lastChecked = this;
 }
 
+// Function to handle clearing all checkboxes
+function clearCheckboxes() {
+  checkboxes.forEach(checkbox => {
+    checkbox.checked = false;
+  });
+}
+
 // Event listener applied to each checkbox input
 checkboxes.forEach(checkbox => checkbox.addEventListener('click', handleCheck));
+// Event listener applied to clear button
+clearBtn.addEventListener('click', clearCheckboxes);
