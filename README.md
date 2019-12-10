@@ -14,3 +14,4 @@ A repository for all of my [JavaScript 30](https://javascript30.com/) challenges
 10. [Hold Shift to Check all Checkboxes](10-HoldShiftCheckboxes)
 11. [Custom Video Player](11-CustomVideoPlayer)
 12. [Key Sequence Detection](12-KeySequenceDetection)
+13. [Slide In On Scroll](13-SlideInOnScroll)

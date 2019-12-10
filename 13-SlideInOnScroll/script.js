@@ -20,6 +20,7 @@ const sliderImages = document.querySelectorAll('.slide-in');
 
 // Function to slide images in when they are halfway on the screen, using the scroll event
 function checkSlide(e) {
+  console.log('it ran');
   // For each image check if half shown and not scrolled past, and add or remove active class to transition in or out
   sliderImages.forEach(sliderImage => {
     // Halfway through the image
