@@ -13,3 +13,4 @@ A repository for all of my [JavaScript 30](https://javascript30.com/) challenges
 9. [Dev Tools Domination](09-DevTools)
 10. [Hold Shift to Check all Checkboxes](10-HoldShiftCheckboxes)
 11. [Custom Video Player](11-CustomVideoPlayer)
+12. [Key Sequence Detection](12-KeySequenceDetection)

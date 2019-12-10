@@ -19,9 +19,9 @@ const cornEmoji = document.querySelector('#corn-emoji');
 
 // Canvas functions
 function drawCorn() {
-  let x = Math.floor(Math.random() * (innerWidth - 100));
+  const x = Math.floor(Math.random() * (innerWidth - 100));
   console.log(x);
-  let y = Math.floor(Math.random() * (innerHeight - img.height));
+  const y = Math.floor(Math.random() * (innerHeight - img.height));
   ctx.drawImage(img, x, y);
 }
 
