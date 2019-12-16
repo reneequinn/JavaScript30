@@ -16,3 +16,4 @@ A repository for all of my [JavaScript 30](https://javascript30.com/) challenges
 12. [Key Sequence Detection](12-KeySequenceDetection)
 13. [Slide In On Scroll](13-SlideInOnScroll)
 14. [JavaScript References vs Copying](14-JavaScriptReferencesVsCopying)
+15. [Local Storage and Event Delegation](15-LocalStorage)
