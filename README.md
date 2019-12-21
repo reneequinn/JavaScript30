@@ -17,3 +17,5 @@ A repository for all of my [JavaScript 30](https://javascript30.com/) challenges
 13. [Slide In On Scroll](13-SlideInOnScroll)
 14. [JavaScript References vs Copying](14-JavaScriptReferencesVsCopying)
 15. [Local Storage and Event Delegation](15-LocalStorage)
+16. [Mouse Move Shadow Effect](16-MouseMoveShadowEffect)
+17. [Sort Without Articles](17-SortWithoutArticles)
