@@ -54,7 +54,9 @@
         offsetY: y
       } = e;
 
+      // Checking if the mouse is targeting the hero div or the h1 inside it
       if (this !== e.target) {
+        // If the mouse is inside the h1, add the offsetLeft and offsetTop values to the x and y variables
         x = x + e.target.offsetLeft;
         y = y + e.target.offsetTop;
       }
