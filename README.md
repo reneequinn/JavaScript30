@@ -20,3 +20,4 @@ A repository for all of my [JavaScript 30](https://javascript30.com/) challenges
 16. [Mouse Move Shadow Effect](16-MouseMoveShadowEffect)
 17. [Sort Without Articles](17-SortWithoutArticles)
 18. [Tally String Times With Reduce](18-TallyStringTimesWithReduce)
+19. [Webcam Fun](19-WebcamFun)
